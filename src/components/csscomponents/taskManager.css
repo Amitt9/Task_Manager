@@ -1,0 +1,15 @@
+.task-manager {
+    display: flex;
+    justify-content: center;
+     }
+  
+  .task-list {
+    flex: 1;
+    margin-right: 20px;
+    width: 50%;
+  }
+
+  .task-form {
+    width: 50%; 
+  }
+  

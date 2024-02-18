@@ -1,0 +1,36 @@
+.task-item {
+    border: 1px solid #e2b6b6;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 80%;
+    background-color: rgb(214, 223, 194);
+    
+    .task-item-button {
+      margin-right: 1000px;
+    }
+    
+    
+  }
+  
+  .task-item h3 {
+    margin-top: 0;
+  }
+  
+  .task-item input[type="checkbox"] {
+    margin-right: 5px;
+  }
+
+  .task-item-button {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  
+  
+.task-item-button button {
+ margin-right: 50px;
+ margin-left: 100px;
+ 
+}
+
+

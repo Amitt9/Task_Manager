@@ -12,7 +12,7 @@ Task Management web application using React.js
     
 2. Navigate to the project directory:
   
-    cd task-manager
+    cd task_manager
     
 3. Install dependencies:
 
